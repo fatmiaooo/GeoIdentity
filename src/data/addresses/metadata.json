@@ -1,8 +1,8 @@
 {
-  "version": "v2026.10.12.38",
-  "lastUpdated": "2026-10-12T04:11:23.601Z",
-  "lastUpdatedFormattedZh": "2026-10-12 04:11:23 (UTC)",
-  "lastUpdatedFormattedEn": "2026-10-12 04:11:23 UTC",
+  "version": "v2026.10.13.39",
+  "lastUpdated": "2026-10-13T05:20:31.834Z",
+  "lastUpdatedFormattedZh": "2026-10-13 05:20:31 (UTC)",
+  "lastUpdatedFormattedEn": "2026-10-13 05:20:31 UTC",
   "healthStatus": "HEALTHY",
   "syncSchedule": "Daily at 00:00:00 UTC",
   "totalCountries": 21,
@@ -312,7 +312,7 @@
   },
   "syncLogs": [
     {
-      "timestamp": "2026-10-12T04:11:23.601Z",
+      "timestamp": "2026-10-13T05:20:31.834Z",
       "action": "DAILY_AUTOMATED_SYNC",
       "status": "SUCCESS",
       "message": "自动化扫描完成：已验证 21 国全部地址，共收录 113 个真实地标种子、381 处真实独栋住宅、74 条街道走廊（可衍生 99,456 条门牌）。所有坐标合法，健康度 100%。"
